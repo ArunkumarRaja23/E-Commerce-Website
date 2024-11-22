@@ -9,17 +9,17 @@ Shopping Cart: Add, update, and remove items.
 Responsive Design: Optimized for both desktop and mobile devices.
 Interactive UI: JavaScript-based dynamic interactions for a better user experience.
 
-🛠️ Technologies Used
+🛠️ Technologies Used :
 HTML: Structuring the web pages.
 CSS: Styling and layout.
 JavaScript: Adding interactivity and functionality.
 
-🎯 Objectives
+🎯 Objectives :
 Learn basic web development skills.
 Understand the fundamentals of E-commerce website structure.
 Practice creating a responsive and interactive user interface.
 
-💡 Future Enhancements
+💡 Future Enhancements :
 Add a backend for user authentication and database integration.
 Enable payment gateway for secure transactions.
 Implement product search and filtering options.
